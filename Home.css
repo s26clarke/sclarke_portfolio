@@ -185,22 +185,17 @@
   margin: 0;
 }
 
-.u-section-4 .u-layout-cell-1 {
-  min-height: 455px;
+.u-section-4 .u-image-1 {
+  min-height: 397px;
+  background-image: url("images/PH_Subcomponents.png");
 }
 
 .u-section-4 .u-container-layout-1 {
   padding: 0;
 }
 
-.u-section-4 .u-image-1 {
-  width: 586px;
-  height: 464px;
-  margin: 0 auto -19px 0;
-}
-
 .u-section-4 .u-layout-cell-2 {
-  min-height: 455px;
+  min-height: 368px;
 }
 
 .u-section-4 .u-container-layout-2 {
@@ -284,13 +279,8 @@
     min-height: 1333px;
   }
 
-  .u-section-4 .u-layout-cell-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-4 .u-image-1 {
-    width: 45px;
-    height: 36px;
+    background-position: 50% 50%;
   }
 }
 
@@ -331,8 +321,8 @@
     min-height: 1780px;
   }
 
-  .u-section-4 .u-layout-cell-1 {
-    min-height: 910px;
+  .u-section-4 .u-image-1 {
+    min-height: 794px;
   }
 
   .u-section-4 .u-container-layout-2 {
@@ -989,7 +979,11 @@
   .u-section-6 .u-text-18 {
     margin-right: 140px;
   }
-}.u-section-7 .u-sheet-1 {
+} .u-section-7 {
+  background-image: none;
+}
+
+.u-section-7 .u-sheet-1 {
   min-height: 356px;
 }
 
