@@ -51,7 +51,7 @@
 .u-section-2 .u-text-1 {
   text-align: left;
   font-size: 3rem;
-  margin: 0 99px 0 1px;
+  margin: 76px 89px 0 11px;
 }
 
 .u-section-2 .u-text-2 {
@@ -188,6 +188,7 @@
 .u-section-4 .u-image-1 {
   min-height: 397px;
   background-image: url("images/PH_Subcomponents.png");
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -195,27 +196,27 @@
 }
 
 .u-section-4 .u-layout-cell-2 {
-  min-height: 368px;
+  min-height: 397px;
 }
 
 .u-section-4 .u-container-layout-2 {
-  padding: 30px 60px;
+  padding: 30px 58px;
 }
 
 .u-section-4 .u-text-1 {
-  margin: 91px 0 0;
+  margin: 91px 2px 0;
 }
 
 .u-section-4 .u-icon-1 {
   height: 48px;
   width: 48px;
   background-image: none;
-  margin: -42px 85px 0 auto;
+  margin: -40px 0 0 auto;
   padding: 10px;
 }
 
 .u-section-4 .u-text-2 {
-  margin: 14px 0 0;
+  margin: 12px 2px 0;
 }
 
 .u-section-4 .u-btn-1 {
@@ -225,7 +226,7 @@
   border-style: solid;
   text-transform: uppercase;
   font-weight: 600;
-  margin: 22px auto 2px 30px;
+  margin: 22px auto 0 32px;
   padding: 7px 0;
 }
 
@@ -278,10 +279,6 @@
   .u-section-4 .u-sheet-1 {
     min-height: 1333px;
   }
-
-  .u-section-4 .u-image-1 {
-    background-position: 50% 50%;
-  }
 }
 
 @media (max-width: 991px) {
@@ -296,10 +293,6 @@
   .u-section-4 .u-container-layout-2 {
     padding-left: 30px;
     padding-right: 30px;
-  }
-
-  .u-section-4 .u-icon-1 {
-    margin-right: 17px;
   }
 
   .u-section-4 .u-layout-cell-3 {
