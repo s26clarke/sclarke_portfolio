@@ -41151,6 +41151,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-1 {
   font-size: 1rem;
+  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
@@ -41181,8 +41182,8 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 100%;
 }
 @media (max-width: 1199px) {
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
+  .u-header .u-social-icons-1 {
+    margin-top: 20px;
   }
 }
 
